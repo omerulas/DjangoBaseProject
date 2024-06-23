@@ -1,2 +1,4 @@
 # Ignore deplopment virtual environment
 .venv
+.github
+.github.pub
